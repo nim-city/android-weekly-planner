@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weekly Planner</string>
+    <string name="todo_page">Todo Page</string>
+    <string name="mo">Mo</string>
+    <string name="tu">Tu</string>
+    <string name="we">We</string>
+    <string name="th">Th</string>
+    <string name="fr">Fr</string>
+    <string name="sa">Sa</string>
+    <string name="su">Su</string>
+    <string name="todo_page_title">Daily Plan</string>
+    <string name="title_activity_todo_page">TodoPageActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
