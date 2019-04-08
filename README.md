@@ -1,2 +1,2 @@
-# Weekly-Planner
+# WeeklyPlanner
 Weekly Planner Android App
